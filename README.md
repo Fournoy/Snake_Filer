@@ -1,6 +1,4 @@
 # Snake_Filer
-![Design sans titre](https://github.com/Fournoy/Snake_File/assets/152728394/276fd247-9e49-4c42-8838-c0a9124270ea)
-
 This program is used to make directory traversal automatically. You can choose the type of file depending on the OS and the name file you want to search.
 
 
