@@ -18,7 +18,7 @@ When he send a URL, Snake_Filer verify if the URL have a <200> HTML code, if the
 
 Future update
 ------
-More paths possibilites and maybe another kind of test will be implemented.
+More paths possibilites, better performance with threading method and maybe another kind of test will be implemented.
 
 References :
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
