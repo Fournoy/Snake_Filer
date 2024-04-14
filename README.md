@@ -1,4 +1,4 @@
-# Snake_Filer
+# Snake_Filerv_1.2
 This program is used to make directory traversal automatically. You can choose the type of file depending on the OS and the name file you want to search.
 
 
@@ -13,12 +13,8 @@ Information before using it
 How this programm works :
 I used the resquets librairy to make the program, it allows me to send a request to the internet page, the request contain an URL and this URL is used to perform the directory traversal or path traversal.
 It's important to have the link of an image in the website. It allows us to be in a certain location, for exemple the "var/www/images". The programm use the different path to travel into the folders of the site by sending URL.
-When he send a URL, Snake_Filer verify if the URL have a <200> HTML code, if the case iis True then the directory traversal work. 
+When he send a URL, Snake_Filer verify if the URL have a <200> HTML code, if the case iis True then the directory traversal work.
 
-
-Future update
-------
-More paths possibilites, and another kind of test will be implemented (Broken Access control), during April.
 
 References :
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
