@@ -1,4 +1,4 @@
-# Snake_Filerv_1.2
+# Snake_Filer_v1.2
 This program is used to make directory traversal automatically. You can choose the type of file depending on the OS and the name file you want to search.
 
 
