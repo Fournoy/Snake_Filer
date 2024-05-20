@@ -12,8 +12,8 @@ Information before using it
 -----------------------------
 How this programm works :
 I used the resquets librairy to make the program, it allows me to send a request to the internet page, the request contain an URL and this URL is used to perform the directory traversal or path traversal.
-It's important to have the link of an image in the website. It allows us to be in a certain location, for exemple the "var/www/images". The programm use the different path to travel into the folders of the site by sending URL.
-When he send a URL, Snake_Filer verify if the URL have a <200> HTML code, if the case iis True then the directory traversal work.
+It's important to have the link of an image in the website. It allows us to be in a certain location, for exemple the "var/www/images". The programm use the different path to travel into the folders of the site by sending HTTP request.
+When he send an URL, Snake_Filer verify if the response of the request have a <200> HTML code, if the case is True then the directory traversal work (this problem will soon be solved, indeed, some case send a <200> response even if the folder is not find).
 
 Exemple of utilisation (on PortsSwigger)
 ------------------------------------------
