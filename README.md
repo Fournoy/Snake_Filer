@@ -1,4 +1,7 @@
 # Snake_Filer_v1.2
+
+This project was for train myself, and will possibly not work correctly if you use it... 
+
 This program is used to make directory traversal automatically. You can choose the type of file depending on the OS and the name file you want to search.
 
 
