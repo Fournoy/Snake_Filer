@@ -5,8 +5,6 @@ This project was for train myself, and will possibly not work correctly if you u
 This program is used to make directory traversal automatically. You can choose the type of file depending on the OS and the name file you want to search.
 
 
-Disclaimer: Any illicit use of this program is strictly prohibited. 
-It is important to emphasize that users of Snake_Filer are solely responsible for their actions when using this program. I disclaim any liability for abusive or illicit use of the application by third parties. Users are required to comply with the laws and regulations in their jurisdiction when using Snake_Filer.
 
 By downloading and using Snake_Filer, you fully acknowledge and agree to the terms of this disclaimer, and you commit to using the application responsibly and legally.
 
